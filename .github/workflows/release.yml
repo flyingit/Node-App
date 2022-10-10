@@ -2,12 +2,13 @@ changelog:
   categories:
   - title: Breaking Changes
     labels:
-    - Semver-Major
     - breaking-change
-  - title: Exciting New Features :tada:
+  - title: main 
     labels:
-    - Semver-Minor
-    - enhancement
+    - feature
+  - title: Bug fixes 
+    labels:
+    - bug
   - title: Other Changes
     labels:
-       - “*”
+       - "*"
